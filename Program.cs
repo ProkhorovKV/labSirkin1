@@ -10,7 +10,7 @@ namespace gitHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ZvZv");
+            Console.WriteLine("Вторая ветка");
 
         }
     }
